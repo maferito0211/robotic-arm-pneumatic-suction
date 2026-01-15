@@ -132,18 +132,6 @@ Robotic Arm with Pneumatic Suction System to Pack Bagged Food/
 │   └── Overleaf
 │       └── Manipulador_Antropomórfico_3_DOF_con_Succión_Neumática_para_Alimentos.zip
 │
-├── Electronic Design
-│   └── Electronic Schematics - AutoCAD
-│       ├── Remote Control.dwg
-│       └── Robotic Arm.dwg
-│
-├── Mechanic Design
-│   ├── Mechanical Drawings - AutoCAD
-│   ├── Remote Control 3D Model - SolidWorks
-│   └── Robotic Arm 3D Model - SolidWorks
-│
-├── Photos and Videos
-│
 └── Code
     ├── Master
     │   └── Master.ino
@@ -172,4 +160,5 @@ Special thanks to Professors Patricio Cruz and Alexander Tirira for their academ
 ## Purpose of This Repository
 
 This repository is published **for academic and professional portfolio purposes** and is referenced in the author's résumé.
+
 
